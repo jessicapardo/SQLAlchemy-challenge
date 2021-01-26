@@ -25,16 +25,7 @@ The complete climate analysis and data exploration can be found here:  [Jupyter 
 
 * By using Pandas, the summary statistics for the precipitation data was generated.
 
-Precipitation
--------------------
-count	2021.000000
-mean	0.177279
-std	    0.461190
-min 	0.000000
-25%	    0.000000
-50%	    0.020000
-75%	    0.130000
-max	    6.700000
+![Precipitation Statistics](Images/StatisticsSummary.png)
 
 
 ### Station Analysis
